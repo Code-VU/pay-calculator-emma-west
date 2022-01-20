@@ -5,7 +5,7 @@ def calculatePay():
     hrs = input("Enter Hours: ")
     rate = input("Enter Rate: ")
     pay = hrs*rate
-    Print("Pay:", pay)
+    print("Pay:", pay)
     # end assignment
 
 ## if you want to test locally before you try to sync
